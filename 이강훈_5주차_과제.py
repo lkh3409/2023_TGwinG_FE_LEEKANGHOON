@@ -52,11 +52,7 @@ def calculator(order):
 
     return round(answer,2)
 
-print(calculator("원넓이: 10"))
-print(calculator("로그: e 10"))
-print(calculator("사인: 100"))
-print(calculator("팩토리얼: 5"))
-print(calculator("조합: 3 2"))
+
 
     
 
