@@ -4,7 +4,7 @@
 # 함수 이름 변경하지 마세요. 변경 시 해당 문제 0점 처리 하겠습니다.
 # result, answer 변수를 사용하여 문제를 풀이하세요. 반환값은 result나 answer 변수입니다.
 # 제출 기한: 2023년 4월 17일 23시 59분
-# 지각 제출 기한: 2023년 4월 18일 23시 59분
+# 지각 제출 기한: 2023년 4월 18일 23시 59분.
 
 import math
 
@@ -51,7 +51,7 @@ def calculator(order):
         answer=calcCombination(ordernum1,ordernum2)
 
     return round(answer,2)
-
+ 
 
 
     
